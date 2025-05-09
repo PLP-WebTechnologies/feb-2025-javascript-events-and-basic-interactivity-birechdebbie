@@ -30,7 +30,8 @@ nav a {
   margin: 0;
   padding: 0;
 }
-
+/* when i applied this code ,the buttons in html were not showing.
+Ihave decided to comment on them for now . 
 #slideshow {
   width: 500px;
   height: 300px;
@@ -43,6 +44,6 @@ nav a {
   height: 100%;
   position: absolute;
   display: none;
-}
+} */
 
 
